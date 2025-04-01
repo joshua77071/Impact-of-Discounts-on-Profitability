@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer Name,Region,Category,Sub-Category,Sales,Profit,Discount
+ORD001,2024-12-25,Robert Anderson,East,Furniture,Bookcases,502.33,100.47,0.0
+ORD002,2024-10-11,Mr. Steven Fischer,North,Technology,Laptops,154.39,1.54,0.19
+ORD003,2024-07-20,Elizabeth King,East,Office Supplies,Paper,765.13,30.61,0.16
+ORD004,2025-02-14,Regina Knox,North,Technology,Phones,875.5,96.31,0.09
+ORD005,2025-02-11,Christopher Moore,West,Technology,Laptops,147.35,-19.16,0.33
+ORD006,2025-02-03,Ian Cuevas,West,Furniture,Sofas,389.35,11.68,0.17
+ORD007,2024-10-25,Mark Jackson,South,Technology,Accessories,842.98,25.29,0.17
+ORD008,2024-08-23,Samantha Coleman,North,Office Supplies,Binders,163.29,-22.86,0.34
+ORD009,2025-02-27,Rebecca Jones,South,Technology,Phones,372.63,55.89,0.05
+ORD010,2025-02-28,John Brooks,South,Technology,Monitors,554.06,-49.87,0.29
+ORD011,2024-04-16,Mark Dickerson,South,Office Supplies,Paper,577.68,80.88,0.06
+ORD012,2024-05-13,Cody Gardner,North,Furniture,Sofas,132.15,3.96,0.17
+ORD013,2024-12-17,Jonathon Rojas,North,Furniture,Tables,507.32,-86.24,0.37
+ORD014,2024-10-06,Eric Tate,West,Office Supplies,Pens,93.95,15.03,0.04
+ORD015,2024-08-09,Rachel Patterson,North,Furniture,Bookcases,260.78,10.43,0.16
+ORD016,2024-12-02,Lindsey Brandt,North,Technology,Accessories,285.08,-85.52,0.5
+ORD017,2024-06-01,Elizabeth Moody,West,Office Supplies,Paper,939.77,-84.58,0.29
+ORD018,2024-12-15,Bradley Love,West,Office Supplies,Pens,238.01,45.22,0.01
+ORD019,2024-11-06,Charles Sanders,West,Furniture,Sofas,536.51,21.46,0.16
+ORD020,2024-06-24,Amy Adkins,East,Office Supplies,Pens,54.11,-2.16,0.24
+ORD021,2025-03-07,Andrea Rodriguez,South,Technology,Laptops,115.42,13.85,0.08
+ORD022,2024-06-11,Taylor Klein,North,Technology,Accessories,832.13,-133.14,0.36
+ORD023,2024-09-24,Joseph Davis,East,Furniture,Tables,399.9,-111.97,0.48
+ORD024,2024-12-12,Michael Carter,North,Office Supplies,Pens,494.25,79.08,0.04
+ORD025,2024-09-01,Michael Conrad,West,Furniture,Tables,150.82,-22.62,0.35
+ORD026,2024-09-27,Heather Mays,North,Technology,Accessories,704.09,42.25,0.14
+ORD027,2024-04-05,Patricia Strong MD,West,Furniture,Chairs,661.37,99.21,0.05
+ORD028,2024-05-06,Todd Mata,South,Technology,Monitors,711.07,-120.88,0.37
+ORD029,2024-08-09,Karen Bruce,West,Office Supplies,Binders,104.19,6.25,0.14
+ORD030,2024-04-19,Betty Gardner,South,Furniture,Sofas,370.19,-51.83,0.34
+ORD031,2025-02-06,Angela Jackson,North,Furniture,Sofas,266.56,-50.65,0.39
+ORD032,2025-03-13,Kristen Gallegos,South,Technology,Laptops,307.86,-40.02,0.33
+ORD033,2024-09-06,Kristen Carter,South,Technology,Accessories,840.54,-193.32,0.43
+ORD034,2025-03-15,Michelle Smith,West,Furniture,Chairs,917.05,-73.36,0.28
+ORD035,2025-02-28,Melissa Richardson,North,Technology,Monitors,504.49,-40.36,0.28
+ORD036,2024-11-10,Summer Jacobs,East,Technology,Phones,313.96,-87.91,0.48
+ORD037,2024-06-11,Sherry Wheeler,South,Office Supplies,Paper,298.8,-44.82,0.35
+ORD038,2024-09-05,Jane Thompson,East,Technology,Accessories,205.32,-39.01,0.39
+ORD039,2024-08-12,Jose Miranda,North,Technology,Monitors,396.0,-110.88,0.48
+ORD040,2024-12-17,Katherine Cohen,South,Office Supplies,Paper,180.64,-19.87,0.31
+ORD041,2024-11-17,Shawn Roberson,East,Furniture,Bookcases,670.89,-147.6,0.42
+ORD042,2024-07-01,Sophia Jones,East,Technology,Monitors,393.44,-19.67,0.25
+ORD043,2025-03-11,Mrs. Margaret Taylor MD,North,Office Supplies,Labels,199.62,-15.97,0.28
+ORD044,2024-09-28,Jonathan Morgan,West,Furniture,Tables,180.87,5.43,0.17
+ORD045,2024-11-06,Sandra Castro,South,Furniture,Tables,728.76,7.29,0.19
+ORD046,2024-11-07,Chad Carter,North,Furniture,Bookcases,500.71,45.06,0.11
+ORD047,2024-05-09,Sara Jackson,West,Office Supplies,Binders,632.08,-120.1,0.39
+ORD048,2024-10-14,Derrick Thomas,West,Furniture,Sofas,705.54,-169.33,0.44
+ORD049,2024-09-11,Christopher Allison,North,Office Supplies,Paper,351.6,24.61,0.13
+ORD050,2025-03-18,Robert Moran,South,Technology,Monitors,262.49,5.25,0.18
+ORD051,2025-03-10,Kenneth Young,East,Office Supplies,Pens,868.43,-8.68,0.21
+ORD052,2024-06-12,Andre Pitts,North,Office Supplies,Pens,310.94,55.97,0.02
+ORD053,2025-01-23,Ronald Mason,West,Furniture,Chairs,250.78,27.59,0.09
+ORD054,2024-09-30,Heather Goodwin,South,Technology,Laptops,989.86,-158.38,0.36
+ORD055,2024-08-19,Brianna Russell,East,Office Supplies,Binders,495.12,94.07,0.01
+ORD056,2024-05-01,Jessica Little,East,Technology,Laptops,307.26,-55.31,0.38
+ORD057,2024-09-24,Justin Jones,North,Furniture,Bookcases,455.61,-9.11,0.22
+ORD058,2024-11-23,Erin Romero,East,Office Supplies,Pens,896.15,98.58,0.09
+ORD059,2024-04-16,Jamie Sanders,East,Furniture,Bookcases,570.4,-85.56,0.35
+ORD060,2024-12-05,Brian Williamson,West,Office Supplies,Labels,55.78,-1.67,0.23
+ORD061,2024-04-03,Brenda Freeman,South,Furniture,Chairs,993.17,-109.25,0.31
+ORD062,2025-01-31,Gregory Leonard,West,Technology,Monitors,804.49,-225.26,0.48
+ORD063,2024-06-28,Tabitha Fritz,West,Technology,Monitors,541.97,65.04,0.08
+ORD064,2024-09-01,Bradley Miller,West,Technology,Accessories,901.9,-18.04,0.22
+ORD065,2025-01-26,Kim Clarke,South,Office Supplies,Binders,712.63,57.01,0.12
+ORD066,2024-12-14,David Patterson,South,Office Supplies,Paper,823.13,-214.01,0.46
+ORD067,2024-11-22,Russell Green,North,Office Supplies,Labels,80.96,-12.95,0.36
+ORD068,2024-08-21,Karen Flores,South,Technology,Laptops,486.81,19.47,0.16
+ORD069,2024-08-07,Audrey Smith,East,Office Supplies,Labels,11.99,-3.0,0.45
+ORD070,2025-03-07,Brian Faulkner,South,Furniture,Tables,91.54,10.07,0.09
+ORD071,2024-11-19,Wesley Henderson,West,Office Supplies,Labels,459.15,-50.51,0.31
+ORD072,2025-02-01,Jose Holt,East,Technology,Phones,943.7,179.3,0.01
+ORD073,2024-05-22,Christopher Chavez,West,Office Supplies,Paper,612.72,79.65,0.07
+ORD074,2024-06-19,Ryan Snyder,West,Furniture,Chairs,501.34,-35.09,0.27
+ORD075,2024-05-08,Ronald Mann,South,Furniture,Chairs,763.75,114.56,0.05
+ORD076,2024-12-16,Christopher Decker Jr.,East,Technology,Laptops,736.35,-73.63,0.3
+ORD077,2025-02-02,Patty Shields,South,Technology,Phones,92.35,17.55,0.01
+ORD078,2024-08-06,Bruce Flynn,East,Office Supplies,Labels,760.69,15.21,0.18
+ORD079,2025-02-28,John Wilson,East,Office Supplies,Labels,657.57,46.03,0.13
+ORD080,2024-10-08,Austin Long,North,Furniture,Bookcases,319.63,22.37,0.13
+ORD081,2024-07-02,Justin Smith,North,Furniture,Chairs,107.96,-32.39,0.5
+ORD082,2024-11-30,Paul Phillips,South,Technology,Phones,804.37,-72.39,0.29
+ORD083,2024-10-01,Ashley Smith,East,Furniture,Sofas,717.86,-201.0,0.48
+ORD084,2024-09-22,Casey Norris,West,Technology,Accessories,522.85,-31.37,0.26
+ORD085,2024-09-26,Keith Burns,West,Office Supplies,Labels,284.84,22.79,0.12
+ORD086,2024-06-30,Gabriel Carter,East,Office Supplies,Labels,94.99,-17.1,0.38
+ORD087,2024-09-23,Linda Garcia,East,Office Supplies,Labels,872.67,-43.63,0.25
+ORD088,2025-01-23,Ashley Mitchell,North,Technology,Phones,551.6,82.74,0.05
+ORD089,2024-09-24,Jesus Martin,East,Office Supplies,Labels,428.79,55.74,0.07
+ORD090,2024-06-26,Dr. Alexander Pierce DDS,North,Furniture,Sofas,464.08,-64.97,0.34
+ORD091,2024-12-24,Cynthia Smith,South,Office Supplies,Pens,471.59,33.01,0.13
+ORD092,2024-07-29,David Stevens,West,Furniture,Bookcases,95.71,-22.01,0.43
+ORD093,2024-07-11,David Cruz,North,Office Supplies,Pens,977.39,-68.42,0.27
+ORD094,2024-09-08,Austin Foley,East,Technology,Laptops,239.99,-64.8,0.47
+ORD095,2024-12-19,Diana Jensen,East,Technology,Phones,711.82,-135.25,0.39
+ORD096,2024-08-15,Luke Brock,West,Furniture,Sofas,88.29,-6.18,0.27
+ORD097,2025-03-25,Jessica Brown,East,Furniture,Sofas,543.23,-124.94,0.43
+ORD098,2024-06-29,Peter Nguyen,North,Office Supplies,Binders,387.08,-108.38,0.48
+ORD099,2024-05-12,Stacie Mendez,South,Technology,Laptops,799.45,-7.99,0.21
+ORD100,2024-05-13,Heather Murray,North,Furniture,Bookcases,254.31,-38.15,0.35
