@@ -32,7 +32,7 @@ from superstore_sales
 group by sub_category
 order by total_profit asc;
 
--- sun_category there avg discount and total profits
+-- sub_category there avg discount and total profits
 
 select sub_category, avg(discount) as avg_discount, sum(profit) as total_profit
 from superstore_sales
